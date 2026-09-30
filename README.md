@@ -73,16 +73,6 @@ const jose = {
 
 ---
 
-## ☕ Support my work
-
-If my projects or code have helped you, you can buy me a coffee on Ko-fi. Every bit of support helps me keep building! 💙
-
-<p align="center">
-  <a href="https://ko-fi.com/O2Z825GOS2"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
-</p>
-
----
-
 ## 📫 Let's connect
 
 I'm always open to talking about mobile apps, backend architecture, and building products from scratch.
