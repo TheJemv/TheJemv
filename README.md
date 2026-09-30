@@ -125,7 +125,7 @@ flowchart LR
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheJemv&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheJemv&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJemv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages">
 </p>
 
