@@ -1,7 +1,5 @@
-<!-- Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d5c,100:3d59a1&height=220&section=header&text=Jos%C3%A9%20Emilio%20Montes&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CTO%20%26amp%3B%20Co-Founder%20%40%20Workly%20Services%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="José Emilio Montes Villarreal" width="100%">
-</p>
+<h1 align="center">Hi, I'm José Emilio Montes 👋</h1>
+<p align="center"><b>CTO &amp; Co-Founder @ Workly Services · Full Stack Developer</b></p>
 
 <p align="center">
   <a href="https://app.thejemv.cloud/">
@@ -45,49 +43,6 @@ const jose = {
 
 > **CTO & Co-Founder · Full Stack Developer**, responsible for every technical decision, from the mobile app to the cloud infrastructure.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-**📱 Mobile app**<br>
-Built with React Native and TypeScript, live on iOS and Android.
-
-**💳 Payments**<br>
-Full payment system between clients and companies with Stripe.
-
-**🔐 Authentication**<br>
-Login and user authentication with Firebase.
-
-</td>
-    <td width="50%" valign="top">
-
-**🛠️ Backend**<br>
-REST API with Express.js and PostgreSQL.
-
-**☁️ Cloud**<br>
-Deployed on Google Cloud with Cloud Run and Cloud SQL.
-
-**🛡️ Security**<br>
-Private VPC network, so the database is never exposed to the internet.
-
-</td>
-  </tr>
-</table>
-
-### 🏗️ Architecture
-
-```mermaid
-flowchart LR
-    A["📱 Mobile App<br/>React Native · TypeScript<br/>iOS & Android"] -->|Auth| B["🔐 Firebase Auth"]
-    A -->|HTTPS| C["⚙️ Express.js API<br/>Cloud Run"]
-    C -->|Payments| D["💳 Stripe"]
-    subgraph VPC["🛡️ Private VPC · Google Cloud"]
-        C --> E[("🗄️ PostgreSQL<br/>Cloud SQL")]
-    end
-```
-
-### 🏆 Achievements
-
 - 🚀 Launched **Workly Services** on iOS and Android as co-founder and CTO
 - 🛡️ Designed a **secure cloud architecture** on Google Cloud with a private network (VPC) for the database
 
@@ -108,29 +63,6 @@ flowchart LR
   <img src="https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Cloud SQL">
   <img src="https://img.shields.io/badge/VPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="VPC">
   <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
-</p>
-
-| Area | What I do |
-| :-- | :-- |
-| 📱 **Mobile** | iOS & Android apps with React Native |
-| 🎨 **Frontend** | React and TypeScript interfaces |
-| 🛠️ **Backend** | REST APIs with Express.js |
-| 💳 **Payments** | Stripe integrations between clients and businesses |
-| 🔐 **Auth** | User authentication with Firebase |
-| 🗄️ **Databases** | SQL / PostgreSQL design and management |
-| ☁️ **Cloud** | Deployments on Google Cloud (Cloud Run, Cloud SQL, VPC) |
-
----
-
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TheJemv&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheJemv&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TheJemv&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak">
 </p>
 
 ---
@@ -161,9 +93,4 @@ I'm always open to talking about mobile apps, backend architecture, and building
   🐙 <a href="https://github.com/TheJemv"><b>GitHub</b></a> &nbsp;·&nbsp;
   📧 <a href="mailto:emiliomontesv@hotmail.com"><b>Email</b></a> &nbsp;·&nbsp;
   ☕ <a href="https://ko-fi.com/O2Z825GOS2"><b>Ko-fi</b></a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,50:1f2d5c,100:0d1117&height=120&section=footer" alt="footer" width="100%">
 </p>
