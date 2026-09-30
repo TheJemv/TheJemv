@@ -70,27 +70,3 @@ const jose = {
 ## 🎓 Education
 
 **Information Technology Engineering** · Universidad Tecnológica de Matamoros · *2023 – 2027*
-
----
-
-## ☕ Support my work
-
-If my projects or code have helped you, you can buy me a coffee on Ko-fi. Every bit of support helps me keep building! 💙
-
-<p align="center">
-  <a href="https://ko-fi.com/O2Z825GOS2"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
-</p>
-
----
-
-## 📫 Let's connect
-
-I'm always open to talking about mobile apps, backend architecture, and building products from scratch.
-
-<p align="center">
-  🌐 <a href="https://app.thejemv.cloud/"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  💼 <a href="https://www.linkedin.com/in/emiliomontesv/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  🐙 <a href="https://github.com/TheJemv"><b>GitHub</b></a> &nbsp;·&nbsp;
-  📧 <a href="mailto:emiliomontesv@hotmail.com"><b>Email</b></a> &nbsp;·&nbsp;
-  ☕ <a href="https://ko-fi.com/O2Z825GOS2"><b>Ko-fi</b></a>
-</p>
