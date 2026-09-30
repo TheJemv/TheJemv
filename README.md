@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=220&section=header&text=Jos%C3%A9%20Emilio%20Montes&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CTO%20%26%20Co-Founder%20%40%20Workly%20Services%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="José Emilio Montes Villarreal" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=220&section=header&text=Jos%C3%A9%20Emilio%20Montes&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CTO%20%26amp%3B%20Co-Founder%20%40%20Workly%20Services%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="José Emilio Montes Villarreal" width="100%">
 </p>
 
 <p align="center">
