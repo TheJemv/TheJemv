@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:7aa2f7&height=220&section=header&text=Jos%C3%A9%20Emilio%20Montes&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CTO%20%26amp%3B%20Co-Founder%20%40%20Workly%20Services%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="José Emilio Montes Villarreal" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2d5c,100:3d59a1&height=220&section=header&text=Jos%C3%A9%20Emilio%20Montes&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CTO%20%26amp%3B%20Co-Founder%20%40%20Workly%20Services%20%C2%B7%20Full%20Stack%20Developer&descAlignY=58&descSize=18" alt="José Emilio Montes Villarreal" width="100%">
 </p>
 
 <p align="center">
@@ -165,5 +165,5 @@ I'm always open to talking about mobile apps, backend architecture, and building
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:3d59a1,100:1a1b27&height=120&section=footer" alt="footer" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,50:1f2d5c,100:0d1117&height=120&section=footer" alt="footer" width="100%">
 </p>
